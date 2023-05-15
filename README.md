@@ -1,6 +1,6 @@
 # Immoweb Scraper
 
-![Immoweb logo (Image)] (https://assets.immoweb.be/122/images/logos/brand-logo.svg)
+![Immoweb logo (https://assets.immoweb.be/122/images/logos/brand-logo.svg)]
 
 ## *Description*
 
